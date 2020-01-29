@@ -1,4 +1,4 @@
-![](https://github.com/shadiaali/Weedbuddy_App/blob/master/app/images/logo.png)
+![](https://github.com/shadiaali/Ali_S_Starwars/blob/master/images/logo.svg)
 
 A character guide using Swapi, fetch and particles.js
 
