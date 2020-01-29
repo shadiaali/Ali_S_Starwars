@@ -1,0 +1,16 @@
+{
+  "name": "ali_shadia_starwars",
+  "version": "1.0.0",
+  "description": "Star Wars web app using the Swapi api.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
